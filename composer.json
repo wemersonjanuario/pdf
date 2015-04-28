@@ -1,0 +1,43 @@
+{
+  "name": "wemersonjanuario/pdf",
+  "description": "HTML to PDF Converter based on wkhtmltopdf",
+  "keywords": [
+    "pdf",
+    "pdf converter",
+    "html to pdf",
+    "wkhtmltopdf"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wemerson Januario",
+      "email": "wemerson.januario@gmail.com",
+      "homepage": "http://linkedin.com/in/wemersonjanuario"
+    },
+    {
+      "name": "Can Geliş",
+      "email": "geliscan@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/wemersonjanuario/pdf/issues?state=open"
+  },
+  "suggest": {
+    "wemersonjanuario/wkhtmltopdf-windows": "0.12.2.1",
+    "h4cc/wkhtmltopdf-i386": "*"
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "illuminate/support": "4.x|5.x",
+    "league/flysystem": "~1.0"
+  },
+  "require-dev": {
+    "mockery/mockery": "dev-master@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Inline\\PDF": "src/Inline/PDF"
+    }
+  },
+  "minimum-stability": "dev"
+}
