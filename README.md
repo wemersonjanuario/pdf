@@ -6,15 +6,10 @@ Check out the [Laravel version](https://github.com/wemersonjanuario/laravelpdf) 
 
 ## Installation
 
-Add this to your `composer.json`
-
-    {
-        "require": {
-            "wemersonjanuario/pdf": "dev-master"
-        }
-    }
-
-and run `composer.phar update`
+To install this package, run this command:
+```sh
+composer require wemersonjanuario/pdf
+```
 
 ## Some examples
 
