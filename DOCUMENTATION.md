@@ -48,3 +48,5 @@ Method | Description
 `headerSpacing('10mm')` | Spacing between header and content in mm (default 0)
 `printMediaType()` | Use print media-type instead of screen
 `zoom(0.5)` | Use the zoom factor (default 1)
+`javascript-delay(200)` | Set javascript delay (default 200ms)
+`no-stop-slow-scripts` | Do not stop slow running javascripts
