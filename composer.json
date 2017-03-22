@@ -36,7 +36,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Inline\\PDF\\": "src/Inline/PDF"
+      "Novanti\\PDF\\": "src/Novanti/PDF"
     }
   },
   "minimum-stability": "dev"

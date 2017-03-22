@@ -1,4 +1,4 @@
-<?php namespace Inline\PDF;
+<?php namespace Novanti\PDF;
 
 class PDFException extends \Exception
 {

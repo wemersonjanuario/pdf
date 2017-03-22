@@ -1,4 +1,4 @@
-<?php namespace Inline\PDF;
+<?php namespace Novanti\PDF;
 
 use League\Flysystem\AdapterInterface;
 use League\Flysystem\Filesystem;
