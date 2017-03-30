@@ -13,7 +13,7 @@ composer require wemersonjanuario/pdf
 
 ## Some examples
 
-    $pdf = new Inline\PDF\PDF('/usr/bin/wkhtmltopdf');
+    $pdf = new Novanti\PDF\PDF('/usr/bin/wkhtmltopdf');
 
     echo $pdf->loadHTML('<b>Hello World</b>')->get();
 
