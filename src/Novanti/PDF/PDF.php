@@ -59,7 +59,7 @@ class PDF
         'lowquality', 'dpi', 'image-dpi', 'image-quality',
         'margin-bottom', 'margin-left', 'margin-right', 'margin-top',
         'page-height', 'page-width', 'no-background', 'encoding', 'enable-forms',
-        'no-images', 'disable-internal-links', 'disable-javascript',
+        'no-images', 'disable-internal-links', 'disable-javascript','disable-smart-shrinking',
         'password', 'username', 'footer-center', 'footer-font-name',
         'footer-font-size', 'footer-html', 'footer-left', 'footer-line',
         'footer-right', 'footer-spacing', 'header-center', 'header-font-name',
